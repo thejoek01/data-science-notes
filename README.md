@@ -12,6 +12,9 @@ This repository contains all the useful links that I have found so far about dat
 # Deep Learning
 ## Object Detection
 - [Faster R-CNN Explained](https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/)
+
+## Sequential Data
+- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 # Python
 ## Best Practice
 - [Code Style](https://docs.python-guide.org/writing/style/)
