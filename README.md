@@ -4,7 +4,10 @@ This repository contains all the useful links that I have found so far about dat
 
 # Data Scientist career resources
 - [Data Scientist Roadmap](https://github.com/MrMimic/data-scientist-roadmap)
-# Machine Learning Approaches
+# Machine Learning 
+## Resources
+- [Precision-Recall](./precision-recall)
+## Approaches
 - [Tips and Tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
 
 # Python
