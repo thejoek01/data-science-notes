@@ -9,7 +9,9 @@ This repository contains all the useful links that I have found so far about dat
 - [Precision-Recall](./precision-recall)
 ## Approaches
 - [Tips and Tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
-
+# Deep Learning
+## Object Detection
+- [Faster R-CNN Explained](https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/)
 # Python
 ## Best Practice
 - [Code Style](https://docs.python-guide.org/writing/style/)
