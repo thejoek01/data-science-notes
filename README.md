@@ -6,7 +6,7 @@ This repository contains all the useful links that I have found so far about dat
 - [Data Scientist Roadmap](https://github.com/MrMimic/data-scientist-roadmap)
 # Machine Learning 
 ## Time series Forecasting
-- [General rules to determine the orders on ARIMA parameters from ACF/PACF]https://otexts.com/fpp3/non-seasonal-arima.html#acf-and-pacf-plots
+- [General rules to determine the orders on ARIMA parameters from ACF/PACF](https://otexts.com/fpp3/non-seasonal-arima.html#acf-and-pacf-plots)
 - [Multi-step Time Series Forecasting with ARIMA, LightGBM, and Prophet](https://towardsdatascience.com/multi-step-time-series-forecasting-with-arima-lightgbm-and-prophet-cc9e3f95dfb0#:~:text=LightGBM%20is%20a%20popular%20machine,trend%20and%20seasonality%20(Nile%20dataset))
 ## Resources
 - [Precision-Recall](./precision-recall)
