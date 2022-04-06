@@ -31,3 +31,8 @@ This repository contains all the useful links that I have found so far about dat
 # 🔶 Python
 ## Best Practice
 - [Code Style](https://docs.python-guide.org/writing/style/)
+
+---
+# 🔶 Report Writing
+- [Improving Your Technical Writing Skills](https://www.eecs.qmul.ac.uk/~norman/papers/good_writing/Technical%20writing.pdf)
+
