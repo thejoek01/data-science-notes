@@ -37,5 +37,4 @@ This repository contains all the useful links that I have found so far about dat
 - [Improving Your Technical Writing Skills](https://www.eecs.qmul.ac.uk/~norman/papers/good_writing/Technical%20writing.pdf)
 
 
-https://github.com/khanhnamle1994/cracking-the-data-science-interview
 
