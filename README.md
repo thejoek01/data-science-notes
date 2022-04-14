@@ -5,7 +5,7 @@ This repository contains all the useful links that I have found so far about dat
 
 # 🔶 Data Scientist career resources
 - [Data Scientist Roadmap](https://github.com/MrMimic/data-scientist-roadmap)
-
+- [Cracking the Data Science interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview)
 ---
 # 🔶 Machine Learning 
 ## Time series Forecasting
@@ -35,4 +35,7 @@ This repository contains all the useful links that I have found so far about dat
 ---
 # 🔶 Report Writing
 - [Improving Your Technical Writing Skills](https://www.eecs.qmul.ac.uk/~norman/papers/good_writing/Technical%20writing.pdf)
+
+
+https://github.com/khanhnamle1994/cracking-the-data-science-interview
 
