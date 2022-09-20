@@ -14,6 +14,8 @@ This repository contains all the useful links that I have found so far about dat
 
 ## Explanable AI
 - [Explain Your Model with the SHAP Values](https://towardsdatascience.com/explain-your-model-with-the-shap-values-bc36aac4de3d)
+## Model Evaluation
+- [A visual understanding of bias and variance](https://towardsdatascience.com/a-visual-understanding-of-bias-and-variance-66179f16be32)
 ## Resources
 - [Precision-Recall](./precision-recall)
 ## Approaches
